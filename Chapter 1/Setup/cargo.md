@@ -21,7 +21,7 @@ cargo add <library>
 ```
 Example_Folder
 
-  * Src
+  * Src_Folder
     main.rs
 
 cargolock.toml
