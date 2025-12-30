@@ -1,0 +1,29 @@
+Chapter One - Setup & Syntax
+    * Cargo
+    * Editers
+    * Setup
+
+    * Functions
+    * Ifstatments
+    * Variables
+    * Import
+
+Chapter Two - Builtin Macros & Functions
+    * Println! & Print!
+    * Stdio
+
+Chapter Three - Extentions
+    * .unwrap
+    * .tolowercase
+    * .read_line
+    * .expect
+
+Chapter Four - Example Project
+    * Name_Asking
+    * Guess The Number
+    * Random Number
+
+Chapter Five - Macroquad::Graphics
+    * Setup
+    * Usage
+    * Example_Game
